@@ -1,0 +1,13 @@
+body{
+	width: 900px;
+	margin:0 auto;
+	background: #3498db;
+}
+
+h1{
+	color: #ecf0f1;
+	width: 100%;
+	text-align: center;
+	margin-top: 20%;
+	font-size: 3em;
+}
